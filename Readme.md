@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть»
 
 * Студент: [Дмитрий Султанов](https://up.htmlacademy.ru/react/8/user/1816627).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Гуляев](https://up.htmlacademy.ru/profession/react/7/ecmascript/user/87930).
 
 ---
 
